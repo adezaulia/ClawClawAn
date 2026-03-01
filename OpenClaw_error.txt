@@ -1,0 +1,39 @@
+ini pesan kamu yang error dan tolong dianalisa.
+tanda === adalah pembatas (delimiter) pesan satu dengan pesan berikutnya:
+
+pesan dari kamu yang error:
+
+✅ Test cron working! 😊
+===
+Ada yang bisa Farah kerjakan?
+===
+Ada yang perlu Farah kerjakan?
+===
+Ada yang perlu Farah kerjakan?
+===
+Ada yang perlu Farah kerjakan?
+===
+Stop.
+===
+Stop.
+===
+Stop looping now.
+===
+Stop.
+===
+Stop. Waiting for your command.
+===
+Stop. Waiting.
+===
+Stop.
+===
+Stop.
+===
+⚠️ ✉️ Message failed
+===
+Ini hasil cron test & YouTube link delivery dari tadi malam - semuanya sukses! ✅
+===
+Ada yang perlu Farah kerjakan sekarang?
+
+
+Ada yang perlu Farah kerjakan?
